@@ -1,0 +1,19 @@
+.edit-icon{
+    font-size: 25px;
+    color: green;
+    padding: 0% 2%;
+}
+
+.delete-icon{
+    font-size: 25px;
+    color: brown;
+    padding: 0% 2%;
+}
+
+.edit-icon:hover{
+    cursor: pointer;
+}
+
+.delete-icon:hover{
+    cursor: pointer;
+}
